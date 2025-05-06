@@ -14,6 +14,9 @@ Beautiful layout with smooth transitions
 
 Interactive elements for better user feedback
 
-Live Demo:
-
-👉 Check it here!
+Live Demo: 
+<div class="demo-link"> 
+<a href="https://tyebzx0.github.io/Going/" class="demo-button" target="_blank"> 
+👉 Check it here! 
+</a> 
+</div>
